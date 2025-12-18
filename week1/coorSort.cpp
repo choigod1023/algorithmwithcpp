@@ -10,7 +10,7 @@ int main(){
     cin.tie(0);
     int n;
     cin >> n;
-    vector<vector<int>> v(n,vector<int>(2)); // 
+    vector<vector<int>> v(n,vector<int>(2)); //pair를 사용해서 열길이2로 할당해도 됨
     for(int y=0;y<n;y++){
         for (int x=0;x<2;x++){
             cin >> v[y][x];
