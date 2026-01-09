@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/jangjunhyeok/Documents/알고리즘/week1/timeComplex"
+relocations:     []
+...
