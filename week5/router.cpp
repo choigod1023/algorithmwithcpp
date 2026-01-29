@@ -8,7 +8,7 @@
 using namespace std;
 long long int mid, high, low;
 vector<long long int> v;
-long long int dist(int mid) /거리 재는 함수
+long long int dist(int mid) //거리 재는 함수
 {
     long long int cnt = 0;
     int install = v[0]; // 항상 v[0]에 설치
